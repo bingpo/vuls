@@ -38,7 +38,7 @@ require (
 	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
-	github.com/vulsio/go-cti v0.0.2-0.20220613013115-8c7e57a6aa86
+	github.com/vulsio/go-cti v0.0.2
 	github.com/vulsio/go-cve-dictionary v0.8.2
 	github.com/vulsio/go-exploitdb v0.4.4
 	github.com/vulsio/go-kev v0.1.1-0.20220118062020-5f69b364106f
